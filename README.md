@@ -1,4 +1,4 @@
-# 🔐 Electron Encryptor
+# 🔐 File Protector
 
 A simple desktop application built with **Electron.js** to encrypt and decrypt files using a password.  
 Perfect for securely protecting your data with a clean and user-friendly interface.
